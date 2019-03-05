@@ -903,13 +903,13 @@ Connection ~ 2750 5050
 $Comp
 L Amplifier_Operational:TL072 U1
 U 3 1 5C73852F
-P 3300 5050
-F 0 "U1" H 3258 5096 50  0000 L CNN
-F 1 "TL072" H 3258 5005 50  0000 L CNN
-F 2 "Package_SO:TSSOP-8_4.4x3mm_P0.65mm" H 3300 5050 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3300 5050 50  0001 C CNN
-	3    3300 5050
-	1    0    0    -1  
+P 3100 5050
+F 0 "U1" H 3058 5096 50  0000 L CNN
+F 1 "TL072" H 3058 5005 50  0000 L CNN
+F 2 "Package_SO:TSSOP-8_4.4x3mm_P0.65mm" H 3100 5050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3100 5050 50  0001 C CNN
+	3    3100 5050
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	3200 4750 3200 4550
@@ -963,13 +963,13 @@ Connection ~ 3600 5050
 $Comp
 L Amplifier_Operational:NE5532 U2
 U 3 1 5C7636C6
-P 4100 5050
-F 0 "U2" H 4058 5096 50  0000 L CNN
-F 1 "NE5532" H 4058 5005 50  0000 L CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 4100 5050 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/ne5532.pdf" H 4100 5050 50  0001 C CNN
-	3    4100 5050
-	1    0    0    -1  
+P 3900 5050
+F 0 "U2" H 3858 5096 50  0000 L CNN
+F 1 "NE5532" H 3858 5005 50  0000 L CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 3900 5050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/ne5532.pdf" H 3900 5050 50  0001 C CNN
+	3    3900 5050
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	3600 4550 4000 4550
@@ -1023,13 +1023,13 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:NE5532 U3
 U 3 1 5C793960
-P 4900 5100
-F 0 "U3" H 4858 5146 50  0000 L CNN
-F 1 "NE5532" H 4858 5055 50  0000 L CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 4900 5100 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/ne5532.pdf" H 4900 5100 50  0001 C CNN
-	3    4900 5100
-	1    0    0    -1  
+P 4700 5100
+F 0 "U3" H 4658 5146 50  0000 L CNN
+F 1 "NE5532" H 4658 5055 50  0000 L CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 4700 5100 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/ne5532.pdf" H 4700 5100 50  0001 C CNN
+	3    4700 5100
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	4400 5550 4800 5550
